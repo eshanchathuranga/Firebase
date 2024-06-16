@@ -1,0 +1,43 @@
+
+body {
+    text-align: center;
+    padding: 20px;
+    background: black;
+    align-items: center;
+    justify-content: center;
+
+}
+div {
+    margin-top: 150px;
+}
+h2 {
+    margin-bottom: 30px;
+    text-align: center;
+    color: white;
+}
+form {
+    align-items: center;
+    max-width: 400px;
+    margin: auto;
+    
+    
+}
+input {
+    display: grid;
+    height: 50px;
+    margin: 25px;
+    width: 100%;
+    background: black;
+    color: white;
+    border: hidden;
+    border-bottom: solid white;
+}
+button {
+    padding: 10px 30px;
+    border: hidden;
+}
+button:hover {
+    background: black;
+    border: solid white;
+    color: white;
+}
